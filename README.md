@@ -1,9 +1,10 @@
 # UpcomingConcerts
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/upcoming_concerts`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to UpcomingConcerts. This Ruby Gem provides a CLI to view the next 5 upcoming concerts in Phoenix, AZ. This gem is specifically targeted towards people who are looking for upcoming concerts in Phoenix, AZ area. I have set this up to automatically show the next five concerts in PHX. Once the list appears, the user can then interact with the gem to get more information about the concert. This information will include the artist, date, and venue location.
 
-TODO: Delete this and the text above, and describe your gem
+In order for the user to interact with this information, they will need to fork this repo, then in their terminal they will need to load the following folder: 'bin/upcoming-concerts'
 
+Please feel free to fork this repo and make changes that you feel would make this gem run more smoothly or add any information you feel is missing.
 ## Installation
 
 Add this line to your application's Gemfile:
