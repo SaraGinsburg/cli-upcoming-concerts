@@ -1,7 +1,7 @@
 require 'pry'
 class Concerts
 
-  attr_accessor :name, :date, :ticket, :url, :venue
+  # attr_accessor :name, :date, :ticket, :url, :venue
 
   def self.all
 
