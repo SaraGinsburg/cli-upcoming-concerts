@@ -10,5 +10,9 @@ require "upcoming_concerts"
 # require "pry"
 # Pry.start
 
+def reload!
+  load './lib/upcoming_concerts/concert.rb'
+end
+
 require "irb"
 IRB.start
